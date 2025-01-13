@@ -1,0 +1,17 @@
+{
+    "data": {
+        "whitelist": []
+    },
+    "settings": {
+        "role_delete_threshold": 1,
+        "channel_delete_threshold": 1,
+        "ban_threshold": 1,
+        "role_create_threshold": 1,
+        "channel_create_threshold": 1,
+        "admin_role_threshold": 3,
+        "spam_threshold": 5,
+        "spam_time_window": 10,
+        "timeout_duration": 300,
+        "mention_threshold": 3
+    }
+}
